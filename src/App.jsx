@@ -47,7 +47,8 @@ function App() {
                   className='mx-2 button-42'
                   type="button"
                   value="Search"
-                  onClick={searchbtn}>Search</button>
+                  onClick={searchbtn}
+                  >Search</button>
               </div>
 
               <hr />
